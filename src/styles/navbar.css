@@ -1,0 +1,13 @@
+.main-navbar{
+    display: flex;
+
+    width: 100%;
+    
+    padding: 2.2rem 3.0rem;
+
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+
+
+    background-color: #fff;
+
+}

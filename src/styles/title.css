@@ -1,0 +1,35 @@
+.banner-title{
+    margin-top: 2.6rem;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+}
+
+.banner img{
+    width: 40rem;
+}
+
+.title{
+    align-self: center;
+
+    width: 32rem;
+
+    margin-top: 3.2rem;
+    margin-right: 4.1rem;
+}
+
+.title h1{
+    font-size: 3.6rem;
+}
+
+.title p{
+    font-size: 1.6rem;
+
+    color: #222222
+}
